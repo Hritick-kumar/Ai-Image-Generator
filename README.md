@@ -29,5 +29,6 @@ A Full Stack AI Image Generation web app that lets users create images from text
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-image-generator.git
-cd ai-image-generator
+git clone https://github.com/Hritick-kumar/ai-image-generator.git
+cd Ai-Image-Generator
+
